@@ -47,7 +47,7 @@ class FrutaAdapterListView extends ArrayAdapter<Fruta> {
             //populando as views do layout inflado
             tvCodigo.setText(Integer.toString(f.getCodigo()));
             tvCodigo.setText(df.format(f.getPreco()));
-
+//ttt
             imageView.setImageResource(f.getImagem());
 
             return convertView;
