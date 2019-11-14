@@ -18,5 +18,7 @@ public class ListagemFrutasRecyclerViewActivity extends AppCompatActivity {
         setContentView(R.layout.activity_listagem_frutas_recycler_view);
 
 
+
+
     }
 }
